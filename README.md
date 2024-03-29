@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am a 17 year old student from germany**
+**I am a 18 year old student from germany**
 
 - 🔭 I’m currently working on a **mobile app** [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
 - 👀 Developer [@NoRiskClient](https://github.com/NoRiskClient/)
