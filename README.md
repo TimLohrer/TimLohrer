@@ -5,21 +5,21 @@
 - 🔭 I’m currently working on a **mobile app** [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
 - 👀 Developer [@NoRiskClient](https://github.com/NoRiskClient/)
 - ❤️ Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
-- 🌱 I’m currently learning **Rust** 😍
-- 🔎 I'm interested in **automating/controlling home-IoT devices** and **intigrated circuits**
-- 🤯 I want to learn: **C++**
+- 🌱 I’m currently learning **Rust, C & C++** 😍
+- 🔎 I'm interested in **automating/controlling home-IoT devices** and **intigrated circuits / embedded systems**
+- 🤯 I want to learn: *comming soon :D*
 - 📫 If you want to talk to me, reach out to me on: 
-  - Discord: *@aim_shock*
+  - Discord: *@aim_shock (DM's currently closed)*
   - Email: *me@timlohrer.de*
 
 ### Operating Systems
 ![Operating Systems](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,cloudflare,docker,firebase,flutter,ktor,mongodb,mysql,npm,nodejs,svelte,tauri,vscode,idea,webstorm,postman,arduino,bash)
+![Tools](https://skillicons.dev/icons?i=git,github,cloudflare,docker,firebase,flutter,mongodb,mysql,npm,nodejs,nginx,svelte,tauri,vscode,idea,webstorm,postman,arduino,bash,discord,bots)
 
 ### Libraries
-![Libraries](https://skillicons.dev/icons?i=discordjs,express)
+![Libraries](https://skillicons.dev/icons?i=discordjs,express,ktor)
 
 ### Programming Languages
 ![Programming Languages](https://skillicons.dev/icons?i=js,go,rust,dart,kotlin,css,html,py,wasm)
