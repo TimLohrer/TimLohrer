@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a **mobile app** [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
 - 👀 Developer [@NoRiskClient](https://github.com/NoRiskClient/)
 - ❤️ Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
-- 🌱 I’m currently learning **Rust, C & C++** 😍
+- 🌱 I’m currently learning **Rust, C, C++ & C#** 😍
 - 🔎 I'm interested in **automating/controlling home-IoT devices** and **intigrated circuits / embedded systems**
 - 🤯 I want to learn: *comming soon :D*
 - 📫 If you want to talk to me, reach out to me on: 
@@ -22,4 +22,4 @@
 ![Libraries](https://skillicons.dev/icons?i=discordjs,express,ktor)
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=js,go,rust,dart,kotlin,css,html,py,wasm)
+![Programming Languages](https://skillicons.dev/icons?i=js,go,rust,dart,kotlin,py,wasm,css,html)
