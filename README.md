@@ -2,7 +2,7 @@
 
 **I am a 18 year old student from germany**
 
-- 🔭 I’m currently working on a **mobile app** [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
+- 🔭 Working student [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
 - 👀 Developer [@NoRiskClient](https://github.com/NoRiskClient/)
 - ❤️ Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
 - 🌱 I’m currently learning **Rust, C, C++ & C#** 😍
