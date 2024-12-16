@@ -13,13 +13,13 @@
   - Email: *me@timlohrer.de*
 
 ### Operating Systems
-![Operating Systems](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu)
+![Operating Systems](https://skillicons.dev/icons?i=windows,apple,linux)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,cloudflare,docker,firebase,flutter,mongodb,mysql,npm,nodejs,nginx,svelte,tauri,vscode,idea,webstorm,postman,arduino,bash,discord,bots)
+![Tools](https://skillicons.dev/icons?i=git,github,cloudflare,docker,firebase,flutter,mongodb,mysql,npm,nodejs,nginx,vscode,idea,arduino,bash,discord)
 
 ### Libraries
-![Libraries](https://skillicons.dev/icons?i=discordjs,express,ktor)
+![Libraries](https://skillicons.dev/icons?i=discordjs,express,ktor,tauri,svelte)
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=js,go,rust,dart,kotlin,py,wasm,css,html)
+![Programming Languages](https://skillicons.dev/icons?i=js,go,rust,dart,kotlin,py,wasm,css,html,c)
