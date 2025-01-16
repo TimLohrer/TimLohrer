@@ -5,7 +5,7 @@
 - 🔭 Working student [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
 - 👀 Developer [@NoRiskClient](https://github.com/NoRiskClient/)
 - ❤️ Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
-- 🌱 I’m currently learning **Rust, C, C++ & C#** 😍
+- 🌱 I’m currently learning **C, C++ & C#** 😍
 - 🔎 I'm interested in **automating/controlling home-IoT devices** and **intigrated circuits / embedded systems**
 - 🤯 I want to learn: *comming soon :D*
 - 📫 If you want to talk to me, reach out to me on: 
