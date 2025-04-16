@@ -17,7 +17,7 @@
 ![Operating Systems](https://skillicons.dev/icons?i=windows,apple,linux)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,cloudflare,docker,firebase,flutter,mongodb,mysql,npm,nodejs,nginx,vscode,idea,arduino,bash,discord)
+![Tools](https://skillicons.dev/icons?i=git,cloudflare,docker,firebase,flutter,mongodb,mysql,npm,nodejs,bun,nginx,vscode,idea,arduino,bash,discord)
 
 ### Libraries
 ![Libraries](https://skillicons.dev/icons?i=discordjs,express,ktor,tauri,svelte)
