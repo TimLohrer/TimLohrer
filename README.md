@@ -6,7 +6,7 @@
 - 👀 Developer [@NoRiskClient](https://github.com/NoRiskClient/)
 - ❤️ Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
 - 🌱 I’m currently learning **C, C++ & C#** 😍
-- ✨ You can find my portfolio at [timlohrer.de](https://timlohrer.de)
+- ✨ You can find my portfolio at [timlohrer.dev](https://timlohrer.dev)
 - 🔎 I'm interested in **intigrated circuits / embedded systems** and **scaling / load balancing**
 - 🤯 I want to learn: *comming soon :D*
 - 📫 If you want to talk to me, reach out to me on: 
