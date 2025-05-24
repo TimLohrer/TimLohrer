@@ -3,8 +3,8 @@
 **I am a 19 year old student from germany**
 
 - 🔭 Working student [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
-- 👀 Developer [@NoRiskClient](https://github.com/NoRiskClient/)
-- ❤️ Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
+- 👀 Lead Developer [@NoRiskClient](https://github.com/NoRiskClient/)
+- ❤️ Ex-Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
 - 🌱 I’m currently learning **C, C++ & C#** 😍
 - ✨ You can find my portfolio at [timlohrer.dev](https://timlohrer.dev)
 - 🔎 I'm interested in **intigrated circuits / embedded systems** and **scaling / load balancing**
