@@ -2,7 +2,6 @@
 
 **I am a 19 year old student from germany**
 
-- 🔭 Working student [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
 - 👀 Lead Developer [@NoRiskClient](https://github.com/NoRiskClient/)
 - ❤️ Ex-Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
 - 🌱 I’m currently learning **C, C++ & C#** 😍
