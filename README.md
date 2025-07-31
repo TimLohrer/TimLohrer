@@ -4,12 +4,12 @@
 
 - 👀 Lead Developer [@NoRiskClient](https://github.com/NoRiskClient/)
 - ❤️ Ex-Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
-- 🌱 I’m currently learning **C, C++ & C#** 😍
+- 🌱 I’m currently learning **C, C++** 😍
 - ✨ You can find my portfolio at [timlohrer.dev](https://timlohrer.dev)
 - 🔎 I'm interested in **intigrated circuits / embedded systems** and **scaling / load balancing**
 - 🤯 I want to learn: *comming soon :D*
 - 📫 If you want to talk to me, reach out to me on: 
-  - Discord: *@aim_shock (DM's currently closed)*
+  - Discord: *@aim_shock (DM's currently open)*
   - Email: *me@timlohrer.de*
 
 ### Operating Systems
